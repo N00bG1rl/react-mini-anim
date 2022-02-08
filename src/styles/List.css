@@ -2,11 +2,11 @@
   list-style: none;
   margin: 0 auto;
   padding: 0;
-  width: 280px;
+  width: 400px;
 }
 
 .ListItem {
-  margin: 0;
+  margin: 10px;
   padding: 10px;
   box-sizing: border-box;
   width: 100%;
@@ -14,9 +14,29 @@
   background-color: white;
   text-align: center;
   cursor: pointer;
+  transition: ease-in-out 0.5s;
 }
 
 .ListItem:hover,
 .ListItem:active {
-  background-color: #ccc;
+  background-color: #000;
+  color: #fff;
+}
+
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 0.3s ease-out;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 0.3s ease-out;
 }

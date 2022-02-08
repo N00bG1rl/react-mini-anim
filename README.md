@@ -1,3 +1,25 @@
+# React Mini Animations
+
+Had fun with react-transition-group.
+
+# Created at
+
+February 8, 2022
+
+# Project is created with
+
+- React
+- react-transition-group
+- CSS
+
+# View on browser
+
+## [https://next-js-app-self.vercel.app/](https://next-js-app-self.vercel.app/)
+
+# View as image
+
+![github](public/github.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
