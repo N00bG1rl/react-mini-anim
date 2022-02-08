@@ -14,7 +14,7 @@ February 8, 2022
 
 # View on browser
 
-## [https://next-js-app-self.vercel.app/](https://next-js-app-self.vercel.app/)
+## [https://n00bg1rl.github.io/react-mini-anim/](https://n00bg1rl.github.io/react-mini-anim/)
 
 # View as image
 
